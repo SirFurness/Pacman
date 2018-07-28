@@ -1,0 +1,7 @@
+[package]
+name = "pacman"
+version = "0.1.0"
+authors = ["SirFurness <eric.1334@icloud.com>"]
+
+[dependencies]
+piston_window = "*"
